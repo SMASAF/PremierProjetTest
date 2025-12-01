@@ -1,4 +1,4 @@
-namespace PremierProjetTest
+namespace PremierProjetTest.Entities
 {
     public class WeatherForecast
     {
