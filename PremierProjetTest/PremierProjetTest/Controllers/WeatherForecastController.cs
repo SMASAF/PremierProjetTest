@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using PremierProjetTest.Entities;
 
 namespace PremierProjetTest.Controllers
 {
