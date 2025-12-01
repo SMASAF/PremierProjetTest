@@ -1,0 +1,28 @@
+## Build folders
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Temp files
+*.cache
+*.log
+*.tmp
+
+## ASP.NET Launch Settings
+Properties/launchSettings.json
+
+## NuGet
+packages/
+*.nupkg
+
+## Azure Function artifacts
+local.settings.json
+
+## Others
+project.lock.json
